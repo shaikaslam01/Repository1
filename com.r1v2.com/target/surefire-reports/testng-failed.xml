@@ -10,6 +10,7 @@
       </class> <!-- com.sc.modules.Marketing.pressRelease -->
       <class name="com.sc.modules.Marketing.Articles">
         <methods>
+          <include name="scLogin"/>
           <include name="selectDealer"/>
         </methods>
       </class> <!-- com.sc.modules.Marketing.Articles -->
